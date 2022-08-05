@@ -11,6 +11,7 @@ public class Account {
 	private String emailId;
 	private String accountType;
 	private double balance;
+private int rollNo;
 	public String getFirstName() {
 		return firstName;
 	}
